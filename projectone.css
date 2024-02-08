@@ -1,0 +1,56 @@
+.main{
+    background-color: rgb(233, 233, 157);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.pic{
+    width: 17vw;
+    height: 55vh;
+
+}
+.gabrielle{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 17vw;
+    height: 55vh;
+}
+.gab{
+    margin-top: 65px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+}
+.floral{
+    color: black;
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.money{
+    color: rgb(9, 43, 9);
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.add{
+    color: white;
+    background-color: rgb(9, 43, 9);
+    width: 15vw;
+    height: 6vh;
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
